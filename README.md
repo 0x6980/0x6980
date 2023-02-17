@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xRamin
+- 👋 Hi, I’m @0x6980
 - 👀 I’m interested in Blockchain development
 - 🌱 I’m currently learning Security of smart contarcts
 - 💞️ I’m looking to collaborate on ...
