@@ -2,6 +2,7 @@
 - 👀 I’m interested in Blockchain and ZKP.
 - 🌱 I’m currently learning ZKP.
 - 💞️ I’m looking to collaborate on ZKP.
+- 💞️ Check out my [zkp-notes](https://0x6980.github.io/zkp-notes/)
 - 📫 How to reach me on [x](https://x.com/0x6980).
 
 <!---
